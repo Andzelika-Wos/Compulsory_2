@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Compulsory_2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Compulsory_2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Compulsory_2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Compulsory_2">
+      <UniqueIdentifier>{E7B56C45-07B0-3286-ACA4-CBEB9C98D0B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Compulsory_2\Compulsory_2.Build.cs">
+      <Filter>Source\Compulsory_2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Compulsory_2\Compulsory_2.cpp">
+      <Filter>Source\Compulsory_2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Compulsory_2\Compulsory_2.h">
+      <Filter>Source\Compulsory_2</Filter>
+    </ClInclude>
+    <Filter Include="Source\Compulsory_2\Private">
+      <UniqueIdentifier>{7D87EEC1-ED01-39C4-AE0C-F8A3B4309DD4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Compulsory_2\Private\EnemyActor.cpp">
+      <Filter>Source\Compulsory_2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Compulsory_2\Private\EnemyManager.cpp">
+      <Filter>Source\Compulsory_2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Compulsory_2\Private\MyCharacter.cpp">
+      <Filter>Source\Compulsory_2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Compulsory_2\Public">
+      <UniqueIdentifier>{6E38686E-4ACD-3489-B77F-6374C4B3876F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Compulsory_2\Public\EnemyActor.h">
+      <Filter>Source\Compulsory_2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Compulsory_2\Public\EnemyManager.h">
+      <Filter>Source\Compulsory_2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Compulsory_2\Public\MyCharacter.h">
+      <Filter>Source\Compulsory_2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

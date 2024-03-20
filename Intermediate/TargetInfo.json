@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Compulsory_2",
+			"Path": "..\\Source\\Compulsory_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Compulsory_2Editor",
+			"Path": "..\\Source\\Compulsory_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
